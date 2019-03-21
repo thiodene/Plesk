@@ -1,0 +1,2 @@
+# Plesk
+Plesk is a commercial web hosting platform with a control panel that allows a server administrator to set up new websites, reseller accounts, e-mail accounts and DNS entries through a web-based interface.  Originally designed in Novosibirsk, Russia, the hosting automation software was released by Plesk Inc. and went live first in 2001. In 2003, Plesk was sold to SWSoft, which became Parallels in 2008. In December 2015 Plesk became a separate business entity, which has since been acquired by Oakley Capital.
